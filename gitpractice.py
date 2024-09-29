@@ -3,3 +3,5 @@ def add(a, b):
 
 def dong():
     print("hello")
+print("samgyupsal")
+print("cola")
